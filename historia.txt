@@ -1,5 +1,7 @@
 Mi nombre es Esteban Martínez Torres
 
+Tengo 30 años.
+
 Desarrollador FrontEnd, BackEnd y FullStack de Platzi.
 
 Vivo en Colombia, por ahora.
