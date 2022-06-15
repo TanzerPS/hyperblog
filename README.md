@@ -7,3 +7,4 @@ Hasta ahora, este curso me ha parecido super bueno.
 Siquiera sería nada sin él.
 *Creado con mucho amorgit
 * Incluye eejemplos
+*Disponible para todos
