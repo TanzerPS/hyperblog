@@ -5,4 +5,5 @@ Hasta ahora, este curso me ha parecido super bueno.
 
 > Si vieras lo poderoso que es, lo podrás amar por siempre.
 Siquiera sería nada sin él.
-*Creado con mucho amor
+*Creado con mucho amorgit
+* Incluye eejemplos
